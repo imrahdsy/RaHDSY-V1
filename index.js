@@ -9,30 +9,26 @@ const fetch = require('node-fetch');
 const urlencode = require("urlencode");
 const axios = require("axios");
 const speed = require('performance-now');
-/*
-HALLO I'M RAMLAN :)
-SCRIPT HANYA UNTUK SAYA BELAJAR
-TOLONG JANGAN HAPUS TANDA PENGENAL PEMBUAT
-*/
+
 const apivhtear = 'YOUR_APIKEY'; // APIKEY VHTEAR
 const apibarbar = 'YOUR_APIKEY'; // APIKEY MHANKBARBAR
 const tobzkey = 'YOUR_APIKEY'; // APIKEY TOBZ
 const vinzkey = 'YOUR_APIKEY'; // APIKEY ZEKS
-const BotName = 'SADBOTZ'; // GANTI PAKE NAMA BOT LU
+const BotName = 'RaHDSY'; // GANTI PAKE NAMA BOT LU
 const wa = 'https://chat.whatsapp.com/DcSr2e5hLMd7PkufBVymgu'; // LINK GRUP WA JANGAN DIGANTI YA BIAR KUMPUL DISITU SALING MENGENAL:)
 const ow = 'RAMLAN'; // GANTI PAKE NAMA MU
-const nomorowner = '085559240360'; // GANTI PAKE NOMOR MU ( JANGAN NOMOR BOT )
-const ovo = '0855-5924-0360'; // GANTI PAKE NOMOR OVO LU
-const pulsa = '0812-1444-1027'; // GANTI PAKE NOMOR PULSA LU
-const dana = '0855-5924-0360'; // GANTI PAKE NOMOR DANA LU
-const gopay = '0855-5924-0360'; // GANTI PAKE NOMOR GOPAY LU
-const instagram = 'http://www.instagram.com/iamramlan_'; // GANTI IG LU
+const nomorowner = '085229174013'; // GANTI PAKE NOMOR MU ( JANGAN NOMOR BOT )
+const ovo = '0852-2917-4013'; // GANTI PAKE NOMOR OVO LU
+const pulsa = '0852-2917-4013'; // GANTI PAKE NOMOR PULSA LU
+const dana = '0852-2917-4013'; // GANTI PAKE NOMOR DANA LU
+const gopay = '0852-2917-4013'; // GANTI PAKE NOMOR GOPAY LU
+const instagram = 'http://www.instagram.com/im.cand_20'; // GANTI IG LU
 const aktif = '08:00 - 22:00'; // TERSERAH LU DAH INI
 const vcard = 'BEGIN:VCARD\n'
-  + 'VERSION:3.0\n' // MAU NGAPAIN TOD
-  + 'FN:RAMLAN GANS\n' // GANTI PAKE NAMA MU
+  + 'VERSION:1.0\n' // MAU NGAPAIN TOD
+  + 'FN:RAHADIAN(condro)\n' // GANTI PAKE NAMA MU
   + 'ORG:OWNER BOT;\n' // INI BIARIN GPP, GANTI PAKE NAMA BOT BOLEH
-  + 'TEL;type=CELL;type=VOICE;waid=6285559240360:+62 855-5924-0360\n' // GANTI PAKE NOMOR LU ( SAMAIN KEK GITU YA )
+  + 'TEL;type=CELL;type=VOICE;waid=6285229174013:+62 852-2917-4013\n' // GANTI PAKE NOMOR LU ( SAMAIN KEK GITU YA )
   + 'END:VCARD' // THANKS TO LANN ID
 // NOTE : UBAH YANG GUE SURUH UBAH AJA BIAR GAK ERROR
 const
@@ -106,7 +102,7 @@ conn.on('message-new', async (m) => {
   let imageMessage = m.message.imageMessage;
   console.log(`[ ${moment().format("HH:mm:ss")} ] => Nomor: [ ${id.split("@s.whatsapp.net")[0]} ] => ${text}`);
 
-/*]===> AUTO RESPON LANN ID <===[*/
+/*]===> AUTO RESPON CAND ID <===[*/
  if (text == 'assalamualaikum'){
 conn.sendMessage(id, 'Waalaikumsalam, Ada yang bisa saya bantu? kalo bingung ketik !menu ya kak🤗...' ,MessageType.text);
 }
@@ -253,7 +249,7 @@ conn.sendMessage(id, 'Sama sama, semoga harimu menyenangkan :)' ,MessageType.tex
   }
 //CREATOR
     if (text.includes('!owner')) {
-    conn.sendMessage(id, { displayname: "Jeff", vcard: vcard }, MessageType.contact, { quoted: m })
+    conn.sendMessage(id, { displayname: "Candd", vcard: vcard }, MessageType.contact, { quoted: m })
     conn.sendMessage(id, `Nih nomor pacarku😍, ehh ownerku hehee😁 jangan di galakin ya:*`, MessageType.text, { quoted: m })
   }
 //DONASI
@@ -370,11 +366,11 @@ Note : Jangan males membaca !!!
 24. *!pornhub*
 ➸ Jika undefined berarti harus pake 2 text | contoh : !pornhub Ramlan & Gans
 25. *!hartatahta*
-➸ membuat gambar hartatahta | contoh : !hartatahta Nadia
+➸ membuat gambar hartatahta | contoh : !hartatahta Sasa
          ────────────────
-Note : Sisanya gunain otak kalian aja cape w jelasin :)
+Note : Sisanya gunain otak kalian aja cape w jelasin lapet:)
          ────────────────
-🔰 -----[ *POWERED BY RAMLAN ID* ]----- 🔰`,
+🔰 -----[ *POWERED BY RAHADIAN* ]----- 🔰`,
       contextInfo: { mentionedJid: [nomor] }
     }
     conn.sendMessage(id, options, MessageType.text, { quoted: m })
@@ -389,25 +385,23 @@ Note : Sisanya gunain otak kalian aja cape w jelasin :)
   _${wa}_
          ────────────────
 ╠═══════════════════════════
-║➣ *DAFTAR SEWA & BUAT BOT :*
-║➣ *SEWA : 20K/GRUP (BULAN)*
-║➣ *BUAT : 50K (BISA JADI OWNER)*
+║➣ *PEMBELIAN CEMILAN OPAK(udang&sayur) :*
+║➣ *OPAK UDANG: 20K*
+║➣ *OPAK SAYUR : 12K*
 ║➣ *PEMBAYARAN BISA MELALUI :*
-║➣ *GOPAY, DANA, PULSA, OVO*
+║➣ *GOPAY, DANA, OVO, BRI, DATANG KERUMAH*
 ╠═══════════════════════════
-║➣ *KEUNTUNGAN SEWA BOT :*
-║➣ *1. BISA MEMASUKAN BOT KE GRUP*
-║➣ *KEUNTUNGAN BUAT BOT :*
-║➣ *1. BISA MENJADI OWNER BOT SENDIRI*
-║➣ *2. BISA MENGGANTI NAMA BOT SENDIRI*
-║➣ *3. BISA MEMBAWA BOT KE GROUP*
-║➣ *4. BISA MENYEWAKAN BOT KEMBALI*
+║➣ *KEUNTUNGAN BELI OPAK :*
+║➣ *1. PERUT KENYANG HATI SENANG*
+║➣ *2. BISA DIMAKAN DIMANA SAJA KAPAN SAJA*
+║➣ *3. GRATIS ONGKIR DARI SABANG SAMPAI MERAUKE*
+║➣ *4. DAPAT BONUS TAMBAHAN*
 ╠═══════════════════════════
 ║➣ *JIKA MINAT IKLAN DIATAS*
 ║➣ *HARAP HUBUNGI NOMOR DIBAWAH :*
-║➣ *☎️ WA : *085559240360*
+║➣ *☎️ WA : *085229174013*
 
-🔰 -----[ *POWERED BY LANN ID* ]----- 🔰`,
+🔰 -----[ *POWERED BY RAHADIAN* ]----- 🔰`,
       contextInfo: { mentionedJid: [nomor] }
     }
     conn.sendMessage(id, options, MessageType.text, { quoted: m })
@@ -1558,7 +1552,7 @@ if (text.includes('!hartatahta')){
       imageToBase64(url)
         .then(
           (ress) => {
-            conn.sendMessage(id, '[❗] Hirti Tihti Tai Anjg :v', MessageType.text, {quoted : m} )
+            conn.sendMessage(id, '[❗] Hirti Tihti SITI :v', MessageType.text, {quoted : m} )
             var buf = Buffer.from(ress, 'base64')
             conn.sendMessage(id, buf, MessageType.image)
         })
@@ -1820,14 +1814,8 @@ if (text.includes('!apitext')){
 
 /*
 ]=====> Thanks To <=====[
-> RAMLAN ID
-> REVOER ID
-> ARIS ID
-> VHTEAR
-> TOBZ
-> MHANKBARBAR
-> VINZ
-> MRFZVX12
+> ALLAH SWT
+> RAHADIAN
 > All creator bot WhatsApp
 ]=====> Jangan di ubah <=====[
 */
