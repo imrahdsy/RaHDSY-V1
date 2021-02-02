@@ -1,4 +1,4 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Ramlan
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm RAHADIAN
 <p align="center">
 <img src="https://raw.githubusercontent.com/A187ID/AR15BOT/main/aris/A187.jpg" width="230" height="230"/>
 </p>
@@ -7,10 +7,10 @@
 
 
 <p align="center">
-<a href="#"><img title="🐊RAMLAN🐊" src="https://img.shields.io/badge/RAMLAN-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="🐊RAHADIAN🐊" src="https://img.shields.io/badge/RAMLAN-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Ramlan666"><img title="Author" src="https://img.shields.io/badge/AUTHOR-RAMLAN-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/imrahdsy"><img title="Author" src="https://img.shields.io/badge/AUTHOR-RAHADIAN-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/Ramlan666/sadbot/followers"><img title="Followers" src="https://img.shields.io/github/followers/Ramlan666?color=blue&style=flat-square"></a>
@@ -25,10 +25,10 @@
  
 </details>
 
-### 𝐓𝐡𝐚𝐧𝐤𝐬 𝐅𝐨𝐫 𝐋𝐀𝐍𝐍 𝐈𝐃
+
 
 ### WARNING
-MAU RE-UPLOAD SCRIPT? KASIH NAMA/LINK CHANEL SAYA.... DILARANG UBAH INFO!!!
+MAU RE-UPLOAD SCRIPT? TAG IG: im.cand_20 DILARANG UBAH DESKRIPSI!!!
 
 ## NOTE:> 
 SCRIPTNYA JANGAN DI JUAL/BELI KAN.. SCRIPT INI 100% GRATIS BUAT KALIAN PENGGUNA TERMUX
@@ -55,18 +55,18 @@ Script ini di modifikasi sama saya sendiri Ramlan.
 > pkg install mc
 > pkg install git
 > pkg install bash
-> git clone https://github.com/Ramlan666/sadbot
-> cd sadbot
+> git clone https://github.com/imrahdsy/RaHDSY-V1
+> cd RaHDSY-V1
 > bash install.sh
 > node index.js
-> Tinggal scan kode qr yeee...done
+> Tinggal scan kode qr .... its done
 ```
 
 
 Ket: Aktiv 24 jam
 
 ## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
-* [`Donasi 🐊Ramlan🐊`](https://saweria.co/ramlangans)
+* [`Donasi 🐊RAHADIAN🐊`](https://saweria.co/ramlangans)
 
 
 ## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
