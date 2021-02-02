@@ -64,8 +64,8 @@ Script ini di modifikasi sama saya sendiri -RAHADIAN
 ### UNTUK WINDOWS/VPS/RDP USER <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="29px">
 > Unduh dan pasang Git [`TEKAN SINI`](https://git-scm.com/downloads) <br>
 > Unduh dan pasang NodeJS [`TEKAN SINI`](https://nodejs.org/en/download) <br>
-> Unduh dan pasang FFMPEG [`TEKAN SINI`](https://ffmpeg.org/download.html) (don't forget to path) 
-> Unduh dan pasang ImageMagick [`TEKAN SINI`](https://imagemagick.org/script/download.php) (if nulis want work,  checklist columns 1,2,3,5,6) 
+> Unduh dan pasang FFMPEG [`TEKAN SINI`](https://ffmpeg.org/download.html) 
+> Unduh dan pasang ImageMagick [`TEKAN SINI`](https://imagemagick.org/script/download.php)
 ```bash
 > git clone https://github.com/imrahdsy/RaHDSY-V1
 > cd RaHDSY-V1
