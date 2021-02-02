@@ -47,7 +47,7 @@ Siapin alat dan bahannya.
 ```
 
 ### CARA INSTALLNYA  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
-Script ini di modifikasi sama saya sendiri Ramlan.
+Script ini di modifikasi sama saya sendiri -RAHADIAN
 ```bash
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
@@ -61,6 +61,17 @@ Script ini di modifikasi sama saya sendiri Ramlan.
 > node index.js
 > Tinggal scan kode qr .... its done
 ```
+### UNTUK WINDOWS/VPS/RDP USER <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="29px">
+> Unduh dan pasang Git [`TEKAN SINI`](https://git-scm.com/downloads) <br>
+> Unduh dan pasang NodeJS [`TEKAN SINI`](https://nodejs.org/en/download) <br>
+> Unduh dan pasang FFMPEG [`TEKAN SINI`](https://ffmpeg.org/download.html) (don't forget to path) 
+> Unduh dan pasang ImageMagick [`TEKAN SINI`](https://imagemagick.org/script/download.php) (if nulis want work,  checklist columns 1,2,3,5,6) 
+```bash
+> git clone https://github.com/imrahdsy/RaHDSY-V1
+> cd RaHDSY-V1
+> npm install
+> node index.js
+```
 
 
 Ket: Aktiv 24 jam
@@ -69,7 +80,7 @@ Ket: Aktiv 24 jam
 * [`Donasi 🐊RAHADIAN🐊`](https://saweria.co/ramlangans)
 
 
-## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
+## SOSMED ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
 * [`Instagram Admin`](https://instagram.com/im.cand_20)
 * [`WhatsApp Admin `](https://wa.me/+6285229174013)
