@@ -71,18 +71,9 @@ Ket: Aktiv 24 jam
 
 ## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
-* [`Youtube Admin`](https://youtube.com/c/RamlanChannel21)
-* [`Instagram Admin`](https://instagram.com/iamramlan_)
-* [`WhatsApp Admin `](https://wa.me/+6285559240360)
-* [`Group WhatsApp `](https://chat.whatsapp.com/Eb4niW86N3kHbMjgmdL4WU)
-## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
+* [`Instagram Admin`](https://instagram.com/im.cand_20)
+* [`WhatsApp Admin `](https://wa.me/+6285229174013)
 
-* [`fdciabdul`](https://github.com/fdciabdul/termux-whatsapp-bot)
 
-* [`ARIS ID`](https://github.com/A187ID/AR15BOT)
-
-* [`Mrfzvx12`](https://github.com/mrfzvx12/termux-whatsapp-bot)
-
-* [`MhankBarBar`](https://github.com/MhankBarBar/whatsapp-bot)
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
 
