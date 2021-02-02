@@ -67,6 +67,7 @@ Script ini di modifikasi sama saya sendiri -RAHADIAN
 > Unduh dan pasang FFMPEG [`TEKAN SINI`](https://ffmpeg.org/download.html) 
 > Unduh dan pasang ImageMagick [`TEKAN SINI`](https://imagemagick.org/script/download.php)
 ```bash
+Buka (commands prompt / cmd) PC
 > git clone https://github.com/imrahdsy/RaHDSY-V1
 > cd RaHDSY-V1
 > npm install
