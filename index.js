@@ -60,7 +60,7 @@ conn.on('qr', qr => {
     {
       small: true
     });
-  console.log(`[ ${moment().format("HH:mm:ss")} ] SUBSCRIBE YT RAMLAN CHANNEL!`);
+  console.log(`[ ${moment().format("HH:mm:ss")} ] SIAP LAPET!`);
 });
 
 conn.on('credentials-updated', () => {
