@@ -715,7 +715,7 @@ if (messageType === MessageType.text)
     }
 
   };
-/*MOTIVASI
+//MOTIVASI
   if (text.includes("!motivasi")) {
     const teks = text.replace(/!motivasi /, "")
     axios.get(`https://kocakz.herokuapp.com/api/random/text/katabijak`).then((res) => {
@@ -723,7 +723,7 @@ if (messageType === MessageType.text)
       conn.sendMessage(id, hasil, MessageType.text, { quoted: m });
     })
   }
-/*INFO ANIME
+//INFO ANIME
   if (text.includes("!infoanime")) {
     const sons = text.replace(/!infonime /, "")
     axios.get(`https://arugaz.herokuapp.com/api/kuso?q=${sons}`).then((res) => {
@@ -732,7 +732,7 @@ if (messageType === MessageType.text)
       conn.sendMessage(id, hasil, MessageType.text, { quoted: m });
     })
   }
-/*PUISI
+//PUISI
   if (text.includes("!puisi1")) {
     axios.get(`https://arugaz.herokuapp.com/api/puisi1`).then((res) => {
       conn.sendMessage(id, 'Sabar say...', MessageType.text, { quoted: m })
@@ -764,7 +764,7 @@ if (messageType === MessageType.text)
       let hasil = `${res.data.result}`
       conn.sendMessage(id, hasil, MessageType.text, { quoted: m })
     })
-  }*/
+  }
 //SEBERAPAGAY
   if (text.includes("!seberapagay")) {
     const teks = text.replace(/!seberapagay /, "")
