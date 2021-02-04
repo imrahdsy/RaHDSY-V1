@@ -10,7 +10,7 @@ const urlencode = require("urlencode");
 const axios = require("axios");
 const speed = require('performance-now');
 
-const apivhtear = 'YOUR_APIKEY'; // APIKEY VHTEAR
+const apivhtear = 'jsieu8287362jshre82'; // APIKEY VHTEAR
 const apibarbar = 'YOUR_APIKEY'; // APIKEY MHANKBARBAR
 const tobzkey = 'YOUR_APIKEY'; // APIKEY TOBZ
 const vinzkey = 'YOUR_APIKEY'; // APIKEY ZEKS
