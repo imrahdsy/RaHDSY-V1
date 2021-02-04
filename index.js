@@ -25,7 +25,7 @@ const gopay = '0852-2917-4013'; // GANTI PAKE NOMOR GOPAY LU
 const instagram = 'http://www.instagram.com/im.cand_20'; // GANTI IG LU
 const aktif = '08:00 - 22:00'; // TERSERAH LU DAH INI
 const vcard = 'BEGIN:VCARD\n'
-  + 'VERSION:1.0\n' // MAU NGAPAIN TOD
+  + 'VERSION:3.0\n' // MAU NGAPAIN TOD
   + 'FN:RAHADIAN(condro)\n' // GANTI PAKE NAMA MU
   + 'ORG:OWNER BOT;\n' // INI BIARIN GPP, GANTI PAKE NAMA BOT BOLEH
   + 'TEL;type=CELL;type=VOICE;waid=6285229174013:+62 852-2917-4013\n' // GANTI PAKE NOMOR LU ( SAMAIN KEK GITU YA )
@@ -249,7 +249,7 @@ conn.sendMessage(id, 'Sama sama, semoga harimu menyenangkan :)' ,MessageType.tex
   }
 //CREATOR
     if (text.includes('!owner')) {
-    conn.sendMessage(id, { displayname: "Candd", vcard: vcard }, MessageType.contact, { quoted: m })
+    conn.sendMessage(id, { displayname: "RAHADIAN", vcard: vcard }, MessageType.contact, { quoted: m })
     conn.sendMessage(id, `Nih nomor pacarku😍, ehh ownerku hehee😁 jangan di galakin ya:*`, MessageType.text, { quoted: m })
   }
 //DONASI
@@ -311,7 +311,7 @@ _“jauhilah api neraka, walau hanya dengan bersedekah sebiji kurma (sedikit). J
   if (text.includes('!bingungcok')) {
     var nomor = m.participant
     const options = {
-      text: `🔰 -----[ *PANDUAN PENGGUNAAN ${BotName}* ]----- 🔰
+      text: `🔰 ---[ *PANDUAN PENGGUNAAN ${BotName}* ]--- 🔰
 *Hallo,👋 @${nomor.split("@s.whatsapp.net")[0]}*
 Berikut adalah cara penggunaan *${BotName}*
          ────────────────
@@ -320,15 +320,15 @@ Note : Jangan males membaca !!!
 1. *!sticker*
 ➸ Masukan gambar ukuran kotak dengan caption !sticker
 2. *!nulis*
-➸ Untuk membuat tulisan | contoh : !nulis Ramlan baik hati dan sopan
+➸ Untuk membuat tulisan | contoh : !nulis Candra baik hati dan sopan ganteng pula
 3. *!stalkig*
-➸ Untul stalking ig menggunakan username | contoh : !stalkig iamramlan_
+➸ Untul stalking ig menggunakan username | contoh : !stalkig im.cand_20
 4. *!ssweb*
 ➸ Mengambil gambar web | contoh : !ssweb http://xnxx.com
 5. *!quotes*
 ➸ Random quotes
 6. *!bikinquote*
-➸ Untuk membuat quotes gambar | contoh : !bikinquote percuma cantik kalo hasil open bo & Kata Ramlan
+➸ Untuk membuat quotes gambar | contoh : !bikinquote percuma cantik kalo ngak pernah ngaji & Kata Ilham
 7. *!ytmp3*
 ➸ Download Audio dari youtube | contoh : !ytmp3 https://youtu.be/BisgI6Vczrg
 8. *!yutubdl*
